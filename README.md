@@ -1,13 +1,18 @@
 # Terminator Trzsz Plugin
 
 
+## about trzsz
 https://github.com/trzsz/trzsz-go  
 with awesome [trzsz-go](https://trzsz.github.io/go), you can got `lrzsz` and `trzsz` support for [terminator](https://github.com/gnome-terminator/terminator)  
 
 
-just run `trzsz -d bash`, then it will Take over your zmodem file transmit from stdio.  
+Just run `trzsz -d bash`, then it will Take over your zmodem file transmit from stdio.  
 you can use traditional `rz` `sz` cmd now (Or the more modern `trz` `tsz` cmd with Progress Bar)
 
+And you can set it as terminator default shell:  
+Terminator Preferences > Profile > Command > Custom Command: `trzsz --dragfile bash`
+
+## dragfile support
 BUT,  
 terminator lack of dragfile support, so this plugin come..  
 **It only add dragfile support for `trzsz --dragfile bash`**
