@@ -52,4 +52,9 @@ Another plugin with `shortcut` support in terminator plugin
 (through hacking way, cause orignal plugin no such capbility)  
 https://github.com/yurenchen000/terminator-hints-plugin
 
+<br>
+
+## Other Plugins
+
+[![related-repos](https://res.ez2.fun/svg/repos-terminator_plugin.svg)](https://github.com/yurenchen000/yurenchen000/blob/main/repos.md#terminator-plugins)
 
